@@ -1,0 +1,1 @@
+<name>:xiaoming <address>:Beijing <stu_id>:1010101
